@@ -1,5 +1,4 @@
 # ECommerceStore
-Author: Keval Patel
 
 Organization: ECommerceStore 
 
@@ -24,7 +23,7 @@ Checkout sample (Must be authenticated)
 {
   {
   "userProfile": {
-    "firstName": "Keval",
+    "firstName": "Test",
     "lastName": "Test"
   },
   "shippingAddress": {
